@@ -4,3 +4,5 @@ egg
 salt
 chicken
 fries
+
+ thank you for coming!
